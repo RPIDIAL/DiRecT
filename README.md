@@ -1,2 +1,2 @@
-# DiRecTr
-MICCAI'24 - DiRecTr: Diagnosis and Reconstruction Transformer for Mandibular Deformity Assessment
+# DiRecT
+MICCAI'24 - DiRecT: Diagnosis and Reconstruction Transformer for Mandibular Deformity Assessment
