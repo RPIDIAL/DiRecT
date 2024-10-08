@@ -4,6 +4,7 @@ MICCAI'24 - DiRecT: Diagnosis and Reconstruction Transformer for Mandibular Defo
 [[Paper PDF](https://papers.miccai.org/miccai-2024/paper/1074_paper.pdf)] [[Open review](https://papers.miccai.org/miccai-2024/232-Paper1074.html)]
 
 ## Update
+  - **Oct 8, 2024**: Source code released.
   - **Oct 5, 2024**: We appologize for the delay in releasing our source code due to an unexpected crash-down of our data server. We will resolve the issue and release the code by the week of MICCAI 2024.
 
 ## Citation
