@@ -22,7 +22,7 @@ In the realm of orthognathic surgical planning, the precision of mandibular defo
 
 ## Method
 ### 3D facial landmark extraction using the MediaPipe framework
-The Google MidiaPipe model is originally trained to extract 2D facial landmarks from face photos. We designed the following pipeline to adapt it for 3D facial landmark extraction.
+The Google MidiaPipe model is originally trained to extract 2D facial landmarks from face photos. We designed the following pipeline to adapt it for 3D facial landmark extraction from 3D images (e.g., cone beam CT and 3dMD head camera images).
 <img src="./fig1.png"/>
 
 ### Scheme of our DiRecT network
