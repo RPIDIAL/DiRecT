@@ -29,7 +29,7 @@ The Google MidiaPipe model is originally trained to extract 2D facial landmarks 
 <img src="./fig2.png"/>
 
 ### Demo of auto-detection of 3D facial landmarks
-Here is a demo showing the process of automatic detection of 3D facial landmarks using [Google MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker) (2D model) integrated in a GUI annotation tool (X-Lab) developed by [Dr. Xuanang Xu](https://superxuang.github.io/).
+Here is a demo showing the process of automatic detection of 3D facial landmarks using [Google MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker) (2D model) integrated in a GUI annotation tool (**X-Lab**) developed by [Dr. Xuanang Xu](https://superxuang.github.io/).
 <img src="./auto_landmarking_demo.gif"/>
 
 ## Contact
